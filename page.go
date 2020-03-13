@@ -10,7 +10,7 @@ import (
 	"github.com/qor/qor"
 	"github.com/qor/qor/resource"
 	"github.com/qor/slug"
-	"github.com/qor/widget"
+	"github.com/stanpanza/widget"
 )
 
 type Page struct {
